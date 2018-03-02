@@ -1,5 +1,7 @@
 # cmplopes/alpine-julia
 Docker Julia over Alpine Linux
+This docker image as the following packages installed:
+- Combinatorics
 
 ```
 $ docker pull -t cmplopes/alpine-julia:[TAG]
