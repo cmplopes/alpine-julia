@@ -5,7 +5,7 @@ This docker image as the following packages installed:
 - Combinatorics
 
 ```
-$ docker pull -t cmplopes/alpine-julia:[TAG]
+$ docker pull cmplopes/alpine-julia:[TAG]
 ```
 
 ## Suported Tags
